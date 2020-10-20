@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#first-skate {
+    display: inline-block;
+    position: absolute;
+}
+#first-skate figcaption {
+    position: absolute;
+    top: 60px;
+    left: 20px;
+     font-size: 40px;
+    color: white;
+    text-shadow: 0px 0px 5px gray;
+}
